@@ -2,7 +2,7 @@
 
 This is the companion repository the the YouTube video showing the build of the Powerpole Inline Volt Meter.
 
-## Video will be published 2025-08-09 19:00 UTC
+_Video will be published 2025-08-09 19:00 UTC_
 
 [![](video-thumb.png)](https://youtu.be/NGh-YLduTzk)
 
