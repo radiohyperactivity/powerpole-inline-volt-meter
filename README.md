@@ -20,16 +20,16 @@ Join me as I build for this quick and easy build of the Powerpole Inline Volt Me
 
 ## Top Part
 
-![](<Power-Pole-Volt-Meter-Top.png>)
+![](Power-Pole-Volt-Meter-Top.png)
 
-- [STL](<Power-Pole-Volt-Meter-Top.stl>)
+- [STL: Power-Pole-Volt-Meter-Top.stl](<Power-Pole-Volt-Meter-Top.stl>)
 
 ## Bottom Part
 
-![](<Power-Pole-Volt-Meter-Bottom.png>)
+![](Power-Pole-Volt-Meter-Bottom.png)
 
-- [STL](<Power-Pole-Volt-Meter-Bottom.stl>)
+- [STL: Power-Pole-Volt-Meter-Bottom.stl](<Power-Pole-Volt-Meter-Bottom.stl>)
 
 ## Final Product
 
-![](<final-product.jpg>)
+![](final-product.jpg)
