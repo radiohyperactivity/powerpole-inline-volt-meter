@@ -2,8 +2,6 @@
 
 This is the companion repository the the YouTube video showing the build of the Powerpole Inline Volt Meter.
 
-_Video will be published 2025-08-09 19:00 UTC_
-
 [![](video-thumb.png)](https://youtu.be/NGh-YLduTzk)
 
 Join me as I build for this quick and easy build of the Powerpole Inline Volt Meter. If you have access to a 3D printer, wire, some Powerpole connectors and a couple of screws, this build will set you back less then 2 Euro/Dollar! Full bill of material, build instructions and STL files for the 3D prints below.
