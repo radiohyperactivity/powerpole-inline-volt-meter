@@ -8,6 +8,10 @@ _Video will be published 2025-08-09 19:00 UTC_
 
 Join me as I build for this quick and easy build of the Powerpole Inline Volt Meter. If you have access to a 3D printer, wire, some Powerpole connectors and a couple of screws, this build will set you back less then 2 Euro/Dollar! Full bill of material, build instructions and STL files for the 3D prints below.
 
+## FreeCAD source file (if you want to make chanegs)
+
+- [Power-Pole-Volt-Meter.FCStd](<Power-Pole-Volt-Meter.FCStd>)
+
 ## Bill of Materials
 
 - 3D printed parts
